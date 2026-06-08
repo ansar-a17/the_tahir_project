@@ -1,0 +1,454 @@
+[0.0s - 28.0s] موسیقی
+[28.0s - 30.0s] تکبیر
+[30.0s - 32.0s] تکبیر
+[118.0s - 128.6s] تکبیر
+[128.6s - 132.5s] تکبیر
+[132.5s - 138.0s] تکبیر
+[138.0s - 142.0s] تکبیر
+[142.0s - 146.0s] تکبیر
+[148.0s - 177.0s] اَنَّ مُحَمَّدًا عَبْدُهُ وَلَسُولَهُ
+[178.0s - 184.0s] فَاعُوضُ بِاللَّهِ مِنَ الشَّيْطُ عَنِ الرَّجِيمِ
+[184.0s - 191.0s] بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
+[191.0s - 198.0s] الحمد لله رب العالمين
+[198.0s - 207.0s] الرحمن الرحیم مالك يوم الدین
+[207.0s - 217.0s] اِيَّاكَ نَعَبْدُهُ وَاِيَّاكَ نَسْتَوِينَ
+[217.0s - 223.0s] اِهْدِنَا السِّرْعَاتَ الْمُسْتَقِيمَ
+[223.0s - 229.0s] سِرْعَاتَ الَّذِينَ عَنَمْتَ عَلَيْهِمْ
+[229.0s - 235.0s] غَيْرِ الْمَعْظُوبِ عَلَيْهِمْ
+[235.0s - 241.0s] وَلَا الضَّعَلِّينَ
+[241.0s - 245.0s] يَا أَيُّهَا الَّذِينَ آمَنُوا
+[245.0s - 249.0s] اسْطَعِنُوا بِالصَّبْرِ وَالصَّلَاةِ
+[249.0s - 254.0s] إِنَّ اللَّهَ مَعَ الصَّبِرِينَ
+[254.0s - 259.0s] وَلَا تَقُولُوا لِمَنْ يُقْتَلُ فِي سَبِيلِ اللَّهِ
+[259.0s - 263.0s] أَنْوَاتَ بَلْ أَحْيَاهُمْ
+[263.0s - 271.0s] وَلَا قِلْ لَا تَشْعُرُونَ
+[271.0s - 276.0s] اے وہ لوگوں جو ایمان لائے ہو، اللہ سے مدد طلب کرتے رہو،
+[276.0s - 282.0s] سبر اور صلاة کے ساتھ، یقیناً اللہ سبر کرنے والوں کے ساتھ ہے،
+[282.0s - 286.0s] اور جو اللہ کی راہ میں قتل کیے جائیں انتو مردے نہ کہو،
+[286.0s - 291.0s] بلکہ وہ زندہ ہیں، لیکن تم شعور نہیں رکھتے۔
+[291.0s - 293.0s] پہلی آیت کے ترجمے لفظ
+[293.0s - 295.0s] یہاں سے بریکٹ میں رکھا ہوا ہے
+[295.0s - 298.0s] کیونکہ الفاظ میں ظاہر نہیں ہے اس لیے
+[298.0s - 302.0s] اس کو ترجمے میں بریکٹ میں ہی رکھا ہوا ہے
+[302.0s - 306.0s] کوئی نہ سمجھے کہ یہ الفاظ میں ظاہر بھی ہے
+[309.0s - 314.0s] شہداء کے ذکر پر مشتمل یہ میرا آخری خطبہ ہے
+[315.0s - 320.0s] جس کے بعد انشاءاللہ دوسرے خطبات کے مضمون شروع ہوں گے
+[321.0s - 322.0s] جیسا کہ
+[322.0s - 324.0s] میں نے گزشتہ خطبے میں بیان کیا تھا
+[324.0s - 328.0s] اب خطبات میں مزید یہ ذکر نہیں ہو سکتا
+[328.0s - 333.0s] ورنہ بعض دوستوں کی طرف سے مطالبے آتے چلے جا رہے ہیں
+[333.0s - 336.0s] جو معلوم ہوتا ہے ایک ناختم ہونے والا سلسلہ ہے
+[336.0s - 341.0s] اس لیے آج اس جلسے سے پہلے انشاءاللہ اس خطبے میں
+[341.0s - 345.0s] جتنے بھی شہداء کا ذکر آئے گا اسی پر اکتفاہ ہوگی
+[345.0s - 349.0s] اور باقی اگر کسی کی ذہن میں کوئی ایسے شہداء آئیں
+[349.0s - 352.0s] جو ان کے خیال میں شہداء میں شریک ہونے چاہیے
+[352.0s - 355.0s] تو ان کو چاہیے کہ وہ تاریخِ احمدیت میں
+[355.0s - 358.0s] وہ قواحب بھیجوا دیں وہ خود ہی فیصلہ کر دیا کریں گے
+[363.0s - 366.0s] خلافتِ رابعہ کے شہداء آخر پیس
+[368.0s - 374.0s] مولوی سید محمد موسیٰ صاحب مبلغ سلسلہ اڑیسہ
+[375.0s - 379.0s] تاریخِ شہادت 3 دسمبر 1974
+[379.0s - 386.0s] آپ 3 دسمبر 1974 کو دو دیگر خادمان سلسلہ کے ساتھ
+[386.0s - 390.0s] چندہ جات کی تحریک کے سلسلے میں سفر پر تھے
+[390.0s - 393.0s] کہ ریئر ویل لائن عبور کرتے ہوئے
+[393.0s - 396.0s] ریئر گاڑی کے نیچے آکر موقع پر ہی شہید ہو گئے
+[396.0s - 398.0s] انہوں نے اللہ انہوں نے راجع انہوں نے
+[398.0s - 402.0s] شہید مرحوم ایک لمبا عرصہ ہندوستان کی سب سے بڑی جماعت
+[402.0s - 404.0s] کیرنگ اڑیسہ کے مبلغ رہے
+[404.0s - 409.0s] ایک مرتبہ گاؤں کے گھانس پوس کے مکانات میں آگ بھڑک اٹھی
+[409.0s - 414.0s] تو آپ کی دعا سے غیر متوقع بارش فورا شروع ہو گئی
+[414.0s - 416.0s] جس سے آگ بجھ گئی
+[416.0s - 419.0s] شہید مرحوم مکرم سید حسن علی صاحب
+[419.0s - 421.0s] سونگڑیوی کے چھوٹے بیٹے تھے
+[421.0s - 424.0s] آپ کے تین بڑے بھائی جماعت احمدیہ بھذرک
+[424.0s - 428.0s] سورو اور کٹک کے صدر ہیں
+[428.0s - 431.0s] آپ کی کوئی اولاد نہیں تھی
+[431.0s - 433.0s] پس ماندگان میں صرف بیوہ چھوڑیں
+[436.0s - 438.0s] عبدالمجید صاحب ربوہ
+[439.0s - 442.0s] آپ مکرم عبدالکریم صاحب کی بیٹے تھے
+[442.0s - 445.0s] جو قادیان میں نلکہ سازی کا کام کرتے تھے
+[445.0s - 450.0s] اور ربوہ کی بھی ابتدائی نلکہ سازوں میں سے تھے
+[450.0s - 453.0s] لیکن کس طرح اللہ تعالیٰ نے آپ کو برکت دی
+[453.0s - 457.0s] اور آپ کی جو خدمت کا جذبہ تھا آپ کی کام آیا
+[457.0s - 461.0s] انیس سو تینتالیس میں عبدالمجید صاحب
+[461.0s - 465.0s] مدعسبر میں پیدا ہوئے خدمت خلق تحریک کے تحت
+[465.0s - 467.0s] پچیس جنوری انیس سو چورانوے کو
+[467.0s - 469.0s] غانا میں نلکے لگانے کی پروگرام
+[469.0s - 471.0s] پر بھی واہ گئے
+[471.0s - 477.0s] جہاں آپ نے ایک سال تک خدمات وفد کی
+[477.0s - 483.0s] واپسی کے سفر پر
+[483.0s - 487.0s] نروبی قیام کے دوران بیمار ہو گئے
+[487.0s - 491.0s] اور اسی بیماری میں برن سے پہنچنے سے پہلے
+[491.0s - 494.0s] دسمبر انیس سو چورانوے میں وفات پائی
+[494.0s - 497.0s] اِنَّا لِلَّهِ وَإِنَّا لِلَّهِ رَاجِعُونَ
+[497.0s - 499.0s] جَنِينِ کے لیے آپ کی مئیہ طرف علی جائے گئی
+[499.0s - 509.0s] ای ٹی ایم حق صاحب شہید اور مصطفیٰ علی صاحب عرف ننو میاں شہید بندہ دیش
+[509.0s - 513.0s] تاریخ شہادت اکیس مئی انیس سو پچانوے
+[513.0s - 520.0s] اکیس مئی انیس سو پچانوے کی رات کو مکرم نیشنل امیر صاحب بندہ دیش کی ہدایت پر
+[520.0s - 527.0s] مکرم ای ٹی ایم حق صاحب نائب نیشنل امیر کی سربراہی میں ایک وفت
+[527.0s - 532.0s] باز جماعتی امور سے انجام دینے کے لئے احمد ننور بھی وایا گیا
+[532.0s - 538.0s] اس وفد میں ان کے ساتھ مکرم عبدالاول خان صاحب رب سلسلہ مکرم عزالل کریم صاحب
+[538.0s - 543.0s] سیکرٹری وسایہ مکرم میر بشیر بنیر محمد صاحب
+[543.0s - 551.0s] میر صداقت علی صاحب اور ڈرائیور مکرم مصطفیٰ علی صاحب ننو بھی شامل تھے
+[551.0s - 557.0s] صبح گیارہ بجے ان کی گاڑی فیری کی ذریعے درائی جمنہ پار کر کے
+[557.0s - 561.0s] نگر باڑی گھاڑ پر اتری اور آگے کا سفر شروع کیا
+[561.0s - 568.0s] مگر دوپہر بارہ بج کر بیس منٹ پر رائے گئیں تھانے کے قریب مین ووٹ پر ایک ٹرک سے ٹکرا گئی
+[568.0s - 574.0s] جس کے نتیجے میں مکرم اے ٹی ایم حق صاحب تو موقع پر ہی دم توڑ گئے
+[574.0s - 581.0s] جبکہ کارک ڈرائیور مکرم مصطفیٰ علی ننو صاحب بوگڑا ہسپتال پہنچتے ہوئے رستے میں وفات پا گئے
+[581.0s - 588.0s] مکرم اے ٹی ایم حق صاحب بہت ہی نیک اور مخلص احمدی تھے
+[588.0s - 595.0s] یہ پہلے پیر پرست اور خبر پرست مسلمان تھے انیس سو ساٹھ کے قریب خود احمدیت قبول کی
+[595.0s - 600.0s] مریض ہونے کے باوجود یہ جماعت کے کاموں میں تقریباً روزانہ حاضر ہوا کرتے تھے
+[600.0s - 604.0s] بہت ہی صاف گو نفسد پسند اور خوش پوش بزرگ تھے
+[604.0s - 608.0s] وہ وقت پہ شاہد عمر پیشتر سال تھی
+[608.0s - 610.0s] شہید مرحوم نے اپنے پیچھے تین بیٹے
+[610.0s - 612.0s] اور چار بیٹیاں چھوڑی ہیں
+[612.0s - 616.0s] انہوں بیٹے ماشاءاللہ نہایت مختصر فضائے عمدی ہیں
+[621.0s - 627.0s] شہید مصطفیٰ علی ننو صاحب بھی بڑے انہر مزاد اور باخلاک مجوان تھے
+[627.0s - 631.0s] مکرم عظیم رمیز الدین صاحب اور احمد نگر کی بیٹے تھے
+[631.0s - 636.0s] جماعت کی گاڑی چلانے کے علاوہ ٹائپسٹ کام بھی کرتے تھے
+[636.0s - 639.0s] آپ کی شادی ہوئے تھوڑا عرصہ ہوا تھا
+[639.0s - 641.0s] کوئی بچہ نہیں ہوا
+[641.0s - 644.0s] اس مانگان میں صرف ایک بیوہ چھوڑی
+[646.0s - 649.0s] چوہری عبدالرشید صاحب شہید لاہور
+[649.0s - 652.0s] تاریخ شہادت تیس اکتیوبر انیس سو اٹھان میں
+[652.0s - 655.0s] آم مولانا چوہری محمد شریف صاحب مرحوم
+[655.0s - 660.0s] سابق مبلغ بلاد عربیہ مغربی افریقہ
+[660.0s - 663.0s] اور محترمہ فضل بی بی صاحب مرحومہ کے بیٹے تھے
+[663.0s - 667.0s] حیفہ فلسطین میں انیس سو اکتاریس میں پیدا ہوئے
+[667.0s - 669.0s] ابھی صرف دو سال کے تھے
+[669.0s - 671.0s] والدہ وفات پا گئی
+[671.0s - 673.0s] آپ کی پرورش آپ کی دوسری والدہ
+[673.0s - 677.0s] محترمہ حکمت عباس عودی صاحبہ نے
+[677.0s - 681.0s] نہایت محبت اور خوشکلکی کے ساتھ کی
+[681.0s - 684.0s] آپ دسمبر انیس سو پچپن میں
+[684.0s - 688.0s] اپنے والد محترم کے ہمراہ پاکستان آئے
+[688.0s - 693.0s] تعلیم اسلام کالج رووہ سے بی اے اور لاہور کالج سے ایم اے کرنے کے بعد
+[693.0s - 697.0s] سی ایس پی کے مقابلہ کے انتہان میں
+[697.0s - 699.0s] نہایت کامیابی
+[699.0s - 701.0s] حاصل کی
+[701.0s - 706.0s] اور پنجاب میں بطور دیپٹری فنینس سیکریٹری مقرر ہوئے
+[706.0s - 710.0s] متاثب مولوی اگرچہ آپ کے خلاف شدید پراپگنڈا کرتے رہے
+[710.0s - 714.0s] مگر آپ کی ایمانداری اور عالی کارکردگی کی ویسے
+[714.0s - 717.0s] حکومت ان کو الگ نہ کر سکی
+[717.0s - 720.0s] بلکہ آپ مزید ترقی کرتے رہے
+[720.0s - 727.0s] ایک موقع پر منفی سفارش کے ساتھ آپ کا مولا صدر زیاد تک بھی پہنچا
+[727.0s - 733.0s] تو آپ کی ملازمت ختم کرنے کا حکم فوری طور پر جاری کر دیا گیا
+[733.0s - 738.0s] مگر جب گورنر پنجاب جنرل سوارخان نے آپ کی فائر صدر کو بھیبائی
+[738.0s - 741.0s] کہ دیکھ تو لو کہ یہ کیسا افسر ہے
+[741.0s - 748.0s] تو اسے دیکھ کر یہ نیا حکم جاری کرنا پڑا کہ سرے دستی سے کسی اور جگہ تبدیل کر دیا جائے
+[748.0s - 751.0s] آپ رفاہی کاموں میں دل کھول کر حصہ رہتے تھے
+[751.0s - 756.0s] اور بزرگ باپ کے نقش قدم پر چلتے ہوئے آپ ہمیشہ صداقت پر قائم رہے
+[756.0s - 766.0s] تیس اکتوبر انیس سو اٹھانوے کی شام کو بعض خاتروں نے آپ کو احمدیت کی تبلیغ کے جرم میں بڑی بے ضروری سے شہید کر دیا
+[766.0s - 769.0s] انا للہ فی نبی الرحمن الرحیم
+[769.0s - 776.0s] آپ کی شادی محترم الحاج ڈاکٹر محمد سعید صاحبزادی نازی سعید صاحبہ سے ہوئی تھی
+[776.0s - 780.0s] جو لجنہ امیاء اللہ لاہور کی ایک فعال کارکنہ ہے
+[780.0s - 786.0s] آپ نے اپنے پیچھے بیوہ کے علاوہ ایک بیٹا عبدالعزیز اور دو بیٹیاں فوزیہ رشید
+[786.0s - 788.0s] اور شیعبہ رشید چھوڑے
+[788.0s - 791.0s] بیٹا خالینوں کو کاروبار کرتا ہے
+[791.0s - 794.0s] دونوں بیٹیاں اعلیٰ تعلیمی آفتہ اور اپنے گھروں میں خوش ہیں
+[794.0s - 799.0s] آپ کے چھوٹے بھائی بشید شریف انگلستان میں ہر جماعتی خدمت میں بیش پہ رہتے ہیں
+[799.0s - 802.0s] اللہ کی فضل سے ایک مثالی انگیز ہیں
+[802.0s - 808.0s] ملک اجاز صاحب شہید وزیر آباد
+[808.0s - 812.0s] تاریخ شہادت یکم دسمبر انیس سو اٹھان میں
+[812.0s - 815.0s] آم مکرم انیت اللہ صاحب مرہوم
+[815.0s - 818.0s] جنگوں کے تحصیل وزیر آباد کے سہرزادہ تھے
+[818.0s - 821.0s] اور ایک نیڈر دائی اللہ تھے
+[821.0s - 823.0s] آپ کی دعوت اللہ کے نتیجے میں ہی
+[823.0s - 829.0s] جندیالا ڈھاب والا میں ایک خاندان کے جمعہ آفراد کو بیعت کرنے کی توفیق ملی
+[829.0s - 833.0s] جس سے قبل اس گاؤں میں کوئی احمدی نہ تھا
+[833.0s - 837.0s] اپنوں اور غیروں میں آپ کا حلقہ بڑا وسیع تھا
+[837.0s - 841.0s] ڈاکٹر نظیر احمد صاحب شہید کے مخدمہ میں
+[845.0s - 849.0s] مجرموں کو گرفتار کروانے میں آپ نے بڑی کوشش کی
+[849.0s - 853.0s] اسی لئے مخالفین آپ کے جانے دشمن ہو گئے
+[853.0s - 855.0s] واقعہ شہادت
+[855.0s - 861.0s] یکم دسمبر انیس سو اٹھانوے کو آپ وزیر آباد میں اپنی سیمنٹ ایجنسی میں بیٹھے ہوئے تھے
+[861.0s - 866.0s] کہ صبح دس بجے کے قریب ایک لڑکا جس نے چادر لپیٹ رکھی تھی آیا
+[866.0s - 869.0s] اور پوچھا کہ ملک اجاز کون ہے
+[869.0s - 872.0s] ملک اجاز صاحب کے ساتھ آپ کے دوست بیٹھے ہوئے تھے
+[872.0s - 874.0s] آپ نے پوچھا کیوں کیا بات ہے
+[874.0s - 876.0s] میں ملک اجاز ہوں
+[876.0s - 883.0s] اس سنتے ہی اس لڑکے نے اپنی چادر کے ریجے سے لوڈ کیا ہوا
+[883.0s - 885.0s] ریوالور نکالا
+[885.0s - 886.0s] اور آپ پر فائر کر دیا
+[886.0s - 890.0s] ملک صاحب کو دو گولیاں لگیں جن سے آپ شدید زخمی ہو گئے
+[890.0s - 893.0s] فائر کرنے کے بعد وہ لڑکا فرار ہونے کے لئے غریبی گلی کی طرف دوڑا
+[893.0s - 900.0s] مگر ملک صاحب کے ایک دوست اور ملازم نے اہل محلہ کے تعاون سے اس سے پگڑ کر حوالہ پولیس کر دیا
+[900.0s - 904.0s] آپ کے دوسرے دوست آپ کو تانگا میں ڈال کر سبل ہسپتال لے گئے
+[904.0s - 907.0s] جہاں ابتدائی طریقی انداز دی گئی
+[907.0s - 911.0s] ابھی آپریشنل تھیئرٹر میں لے جانے کی تیاری ہو رہی تھی
+[911.0s - 914.0s] کہ مولا کریم کی طرف سے وہ براوہ آ گیا
+[914.0s - 919.0s] اور آپ لبیک کرتے ہوئے مولا حقیقی سے جاملے
+[919.0s - 922.0s] اِنَّ اللَّهُ عَلَيْنَا عَلَيْنَا عَلَيْنَا
+[922.0s - 925.0s] شہید مرہوم کی اپنی کوئی اولاد نہیں تھی
+[925.0s - 930.0s] اب بستمانگان میں بیوہ کے علاوہ اپنی ایک زیرِ کفارت بچی چھوڑی
+[930.0s - 936.0s] جو ان جنہوں میڈیکل کالج کی طالبہ ہیں
+[936.0s - 943.0s] مبارکہ بیگم صاحبہ اہلیہ محمد قلیم بٹ صاحب چوینڈا سیالکوٹ
+[943.0s - 949.0s] آپ چوینڈا کے ایک مخلص احمدی مقرم میاں محمد عبداللہ صاحب بٹ کی بیٹی تھی
+[949.0s - 953.0s] دعوتِ اللہ کا کام بڑے جوش اور جذبے سے کرتی تھی
+[953.0s - 955.0s] چنانچہ آپ کی کوششوں سے
+[955.0s - 963.0s] کہ نوائی گاؤں دوگران والی میں دو بہن بھائی فروری 1999 میں احمدی ہو گئے
+[963.0s - 966.0s] چونکہ اس گاؤں میں اور کوئی احمدی نہ تھا
+[966.0s - 974.0s] اس لیے دونوں نوموائین کو کافی مخالفت کا سامنا کنا پڑا
+[974.0s - 977.0s] آپ نے دونوں کا بہت خیال رکھا
+[977.0s - 981.0s] اور ہر مشکل میں انہیں حوصلہ اور ذکرلی دیتی رہیں
+[981.0s - 983.0s] اس مقصد کی خاطر آپ ان کے گاؤں چلی جاتی تھی
+[983.0s - 985.0s] آپ نے دونوں کا بہت خیال رکھا
+[985.0s - 987.0s] برژ سکتے ہیں
+[987.0s - 1013.1s] جا کہ نوموائین اپنے ا insightful election
+[1013.1s - 1015.1s] It includes Quranic Arabic verses recited in Arabic.
+[1043.1s - 1045.1s] It includes Quranic Arabic verses recited in Arabic.
+[1163.1s - 1165.1s] It includes Quranic Arabic verses recited in Arabic.
+[1253.1s - 1258.1s] It includes Quranic Arabic verses recited in Arabic.
+[1271.1s - 1276.1s] It includes Quranic Arabic verses recited in Arabic.
+[1283.1s - 1285.1s] This is a very good advice.
+[1285.1s - 1289.1s] If you want to say something, say something good and if not, say something bad.
+[1289.1s - 1295.1s] And whoever believes in Allah and the Day of Resurrection, he should respect his neighbors.
+[1295.1s - 1301.1s] And whoever believes in Allah and the Day of Resurrection, he should respect his guests.
+[1301.1s - 1306.1s] Transcribe exactly as spoken.
+[1306.1s - 1317.1s] It is narrated from Hazrat Jabir that a person came to the Holy Prophet to eat.
+[1317.1s - 1323.1s] This is narrated from Sahih Muslim Kitab-ul-Faza'il Baafi Mujjazaat-un-Nabi.
+[1323.1s - 1331.1s] He came to the Holy Prophet to eat and the Holy Prophet gave him a cup full of water.
+[1331.1s - 1336.1s] He continued to eat from that cup and his wife and both of his guests as well.
+[1336.1s - 1340.1s] He even gave up the amount of food that he ate.
+[1340.1s - 1344.1s] Then he came to the service of the Holy Prophet .
+[1344.1s - 1345.1s] The Holy Prophet said,
+[1345.1s - 1353.1s] If you had not given up that food, you would have continued to eat from that cup and you would have had children.
+[1353.1s - 1361.1s] This is the permission of the Holy Prophet which I have seen today as well.
+[1361.1s - 1372.1s] This is the glory of Allah that whoever serves the guests of the Holy Prophet with good intentions,
+[1372.1s - 1376.1s] his provision never goes to waste.
+[1376.1s - 1381.1s] There is a narration from Hazrat Ali .
+[1381.1s - 1385.1s] The Holy Prophet said,
+[1385.1s - 1390.1s] This is recorded in Sunan-ul-Tirmidhi Kitab-ul-Bird-e-Wassila.
+[1390.1s - 1393.1s] The Holy Prophet said,
+[1393.1s - 1403.1s] There are such palaces in heaven that from the inside you can see the outer parts and from the outside you can see the inner parts.
+[1403.1s - 1406.1s] A Rabi stood up and said,
+[1406.1s - 1409.1s] O Messenger of Allah, for whom are these?
+[1409.1s - 1411.1s] The Holy Prophet said,
+[1411.1s - 1413.1s] For those who have spoken well,
+[1413.1s - 1414.1s] fed,
+[1414.1s - 1416.1s] fasted,
+[1416.1s - 1419.1s] and prayed for the sake of God at night,
+[1419.1s - 1422.1s] they were sleeping at the time of the prayer.
+[1422.1s - 1427.1s] The last condition of offering prayers,
+[1427.1s - 1430.1s] no one can see this goodness in this world.
+[1430.1s - 1434.1s] This is why Allah has given that palace such a place
+[1434.1s - 1436.1s] that you can see it from the inside
+[1436.1s - 1439.1s] and all those who see it from the good condition of it,
+[1439.1s - 1441.1s] are enlightened.
+[1441.1s - 1444.1s] Now, at the end,
+[1444.1s - 1447.1s] regarding the meaning of the Promised Messiah ,
+[1447.1s - 1449.1s] I will say a few words
+[1449.1s - 1453.1s] and end this brief sermon.
+[1453.1s - 1456.1s] Earlier, I had kept more material,
+[1456.1s - 1458.1s] but then it occurred to me that
+[1458.1s - 1460.1s] at the Jalsa Salana,
+[1460.1s - 1462.1s] it will be more necessary
+[1462.1s - 1464.1s] to present this material.
+[1464.1s - 1466.1s] That is why it has been removed from here.
+[1466.1s - 1469.1s] So, without hesitation,
+[1469.1s - 1472.1s] as long as this topic goes on,
+[1472.1s - 1475.1s] the sermon will be ended there.
+[1477.1s - 1479.1s] Now, I would like to say
+[1479.1s - 1481.1s] a few words about the
+[1481.1s - 1483.1s] arrangement of the guests,
+[1483.1s - 1485.1s] the hospitality of the guests.
+[1485.1s - 1487.1s] It was mentioned that
+[1487.1s - 1489.1s] I always keep in mind
+[1489.1s - 1491.1s] that no guest should have any trouble.
+[1491.1s - 1493.1s] Rather, I always remind him
+[1493.1s - 1495.1s] that as long as possible,
+[1495.1s - 1497.1s] the guests should be given comfort.
+[1497.1s - 1499.1s] The heart of a guest
+[1499.1s - 1501.1s] is like a mirror,
+[1501.1s - 1503.1s] and it breaks
+[1503.1s - 1505.1s] by a slight scratch.
+[1505.1s - 1507.1s] The arrangement of the guests
+[1507.1s - 1509.1s] was such that
+[1509.1s - 1511.1s] he himself used to eat with the guests.
+[1511.1s - 1513.1s] However, since the illness
+[1513.1s - 1515.1s] progressed,
+[1515.1s - 1517.1s] and he had to eat non-vegetarian food,
+[1517.1s - 1519.1s] then that arrangement did not remain.
+[1519.1s - 1521.1s] At the same time,
+[1521.1s - 1523.1s] the number of guests increased to such an extent
+[1523.1s - 1525.1s] that there was not enough space.
+[1525.1s - 1527.1s] That is why,
+[1527.1s - 1529.1s] there was a forced separation.
+[1529.1s - 1531.1s] From our side,
+[1531.1s - 1533.1s] everyone has the permission
+[1533.1s - 1535.1s] to eat separately
+[1535.1s - 1537.1s] for those who are sick.
+[1537.1s - 1539.1s] From that time to this day,
+[1539.1s - 1541.1s] no one can
+[1541.1s - 1543.1s] compare the number of guests
+[1543.1s - 1545.1s] with one another.
+[1545.1s - 1547.1s] Those honored guests
+[1547.1s - 1549.1s] were very high in their status.
+[1549.1s - 1551.1s] But even today,
+[1551.1s - 1553.1s] those honored guests
+[1553.1s - 1555.1s] who attend the Jalsas
+[1555.1s - 1557.1s] of the Promised Messiah
+[1557.1s - 1559.1s] come with good intentions
+[1559.1s - 1561.1s] and get a lot of praise
+[1561.1s - 1563.1s] from God.
+[1563.1s - 1565.1s] Regarding them,
+[1565.1s - 1567.1s] as it was not possible
+[1567.1s - 1569.1s] for the Promised Messiah
+[1569.1s - 1571.1s] to eat with them.
+[1571.1s - 1573.1s] For me too,
+[1573.1s - 1575.1s] it was not possible
+[1575.1s - 1577.1s] to eat with guests
+[1577.1s - 1579.1s] who stayed at home.
+[1579.1s - 1581.1s] However,
+[1581.1s - 1583.1s] before this,
+[1583.1s - 1585.1s] I used to make arrangements
+[1585.1s - 1587.1s] to eat with them.
+[1587.1s - 1589.1s] So, these are the compulsions.
+[1589.1s - 1591.1s] We have to agree on some exceptions.
+[1591.1s - 1593.1s] That is why,
+[1593.1s - 1595.1s] those who will come
+[1595.1s - 1597.1s] will pass this.
+[1599.1s - 1601.1s] You have emphasized
+[1601.1s - 1603.1s] the members of the Bawarchi Khana
+[1603.1s - 1605.1s] that these days,
+[1605.1s - 1607.1s] the weather is also bad
+[1607.1s - 1609.1s] and all the people who have come
+[1609.1s - 1611.1s] are all guests.
+[1611.1s - 1613.1s] And guests should be served.
+[1613.1s - 1615.1s] That is why,
+[1615.1s - 1617.1s] the arrangement of food etc.
+[1617.1s - 1619.1s] should be good.
+[1619.1s - 1621.1s] If someone asks for milk,
+[1621.1s - 1623.1s] cook it.
+[1623.1s - 1625.1s] Alhamdulillah,
+[1625.1s - 1627.1s] the English community
+[1627.1s - 1629.1s] is working on this.
+[1629.1s - 1631.1s] And continuously,
+[1631.1s - 1633.1s] 24 hours,
+[1633.1s - 1635.1s] the arrangement of tea and milk
+[1635.1s - 1637.1s] is also going on.
+[1637.1s - 1639.1s] The guest,
+[1639.1s - 1641.1s] according to his habits,
+[1641.1s - 1643.1s] will be served.
+[1643.1s - 1645.1s] Then,
+[1645.1s - 1647.1s] if someone asks me to cook
+[1647.1s - 1649.1s] separate food,
+[1649.1s - 1651.1s] the Promised Messiah
+[1651.1s - 1653.1s] had also said this.
+[1653.1s - 1655.1s] These days,
+[1655.1s - 1657.1s] separate food is cooked
+[1657.1s - 1659.1s] for some guests.
+[1659.1s - 1661.1s] It is served from there
+[1661.1s - 1663.1s] to those guests
+[1663.1s - 1665.1s] who want to eat separate food.
+[1667.1s - 1669.1s] Then,
+[1669.1s - 1671.1s] the Promised Messiah
+[1671.1s - 1673.1s] said,
+[1673.1s - 1675.1s] guests should not be impolite.
+[1675.1s - 1677.1s] After that,
+[1677.1s - 1679.1s] the Promised Messiah
+[1679.1s - 1681.1s] came from Kashmir
+[1681.1s - 1683.1s] and gave a place
+[1683.1s - 1685.1s] near to the feet of the Promised Messiah
+[1685.1s - 1687.1s] and said to the Promised Messiah
+[1687.1s - 1689.1s] that they have a problem here
+[1689.1s - 1691.1s] that they are half of rice
+[1691.1s - 1693.1s] and bread is available here.
+[1693.1s - 1695.1s] The Promised Messiah said,
+[1695.1s - 1697.1s] Allah Almighty says
+[1697.1s - 1699.1s] وَمَا أَنَا مِنِ الْمُتَقَلِّفِينَ
+[1699.1s - 1701.1s] that I am not one of those
+[1701.1s - 1703.1s] who are impolite.
+[1703.1s - 1705.1s] The one who is impolite
+[1705.1s - 1707.1s] among our guests, has a problem.
+[1707.1s - 1709.1s] Then the Promised Messiah ordered
+[1709.1s - 1711.1s] that they should be cooked rice for them.
+[1715.1s - 1717.1s] The Promised Messiah
+[1717.1s - 1719.1s] addressed Munshi Abdul Haq
+[1719.1s - 1721.1s] and said that
+[1721.1s - 1723.1s] you are our guest
+[1723.1s - 1725.1s] and a guest can only get comfort
+[1725.1s - 1727.1s] if he is impolite.
+[1727.1s - 1729.1s] So whatever you need
+[1729.1s - 1731.1s] you can call me impolite.
+[1731.1s - 1733.1s] Then the Promised Messiah
+[1733.1s - 1735.1s] addressed the community and said
+[1735.1s - 1737.1s] that look, these are our guests
+[1737.1s - 1739.1s] and each of you
+[1739.1s - 1741.1s] has the right to
+[1741.1s - 1743.1s] treat them with
+[1743.1s - 1745.1s] good manners
+[1745.1s - 1747.1s] and keep trying
+[1747.1s - 1749.1s] that they do not have any
+[1749.1s - 1751.1s] kind of problem.
+[1753.1s - 1755.1s] This was a good advice
+[1755.1s - 1757.1s] for the guests of the guesthouse.
+[1757.1s - 1759.1s] The guests of the guesthouse
+[1759.1s - 1761.1s] should be reminded
+[1761.1s - 1763.1s] that they should
+[1763.1s - 1765.1s] keep the attention
+[1765.1s - 1767.1s] of one person in mind.
+[1767.1s - 1769.1s] But because he is a lonely person
+[1769.1s - 1771.1s] and he has a lot of work
+[1771.1s - 1773.1s] it is possible that he does not take care of it
+[1773.1s - 1775.1s] so someone else should remind him.
+[1775.1s - 1777.1s] Now look
+[1777.1s - 1779.1s] how much work has spread.
+[1779.1s - 1781.1s] He used to work with a single person
+[1781.1s - 1783.1s] and now
+[1783.1s - 1785.1s] by the grace of God
+[1785.1s - 1787.1s] thousands of assistants are working.
+[1787.1s - 1789.1s] So by the grace of Allah
+[1789.1s - 1791.1s] this is the blessing
+[1791.1s - 1793.1s] that has been bestowed upon him.
+[1793.1s - 1795.1s] Then he said
+[1795.1s - 1797.1s] by looking at someone's clothes
+[1797.1s - 1799.1s] and other things
+[1799.1s - 1801.1s] one should not be disdainful.
+[1801.1s - 1803.1s] Because the guests
+[1803.1s - 1805.1s] are all the same.
+[1805.1s - 1807.1s] And those who are new and ignorant
+[1807.1s - 1809.1s] then it is our right
+[1809.1s - 1811.1s] to keep all their needs in mind.
+[1811.1s - 1813.1s] Sometimes
+[1813.1s - 1815.1s] someone does not even know
+[1815.1s - 1817.1s] about Baitul Khalaqah
+[1817.1s - 1819.1s] and it is very painful for him
+[1819.1s - 1821.1s] to be disdainful.
+[1821.1s - 1823.1s] Now by the grace of Allah
+[1823.1s - 1825.1s] there are many
+[1825.1s - 1827.1s] clear signs about Baitul Khalaqah
+[1827.1s - 1829.1s] hanging everywhere.
+[1829.1s - 1831.1s] So that those who need it
+[1831.1s - 1833.1s] can go there without being asked.
+[1833.1s - 1835.1s] The English community
+[1835.1s - 1837.1s] has paid a lot of attention to this.
+[1839.1s - 1841.1s] I am often sick.
+[1841.1s - 1843.1s] That is why I am sorry.
+[1843.1s - 1845.1s] And those who have been
+[1845.1s - 1847.1s] established for such things
+[1847.1s - 1849.1s] it is their duty
+[1849.1s - 1851.1s] not to complain about it.
+[1851.1s - 1853.1s] Because people travel hundreds
+[1853.1s - 1855.1s] and thousands of miles
+[1855.1s - 1857.1s] with sincerity
+[1857.1s - 1859.1s] and sincerity
+[1859.1s - 1861.1s] for the sake of the truth.
+[1861.1s - 1863.1s] Then if they have a problem here
+[1863.1s - 1865.1s] then it is possible
+[1865.1s - 1867.1s] that they get annoyed.
+[1867.1s - 1869.1s] And by getting annoyed
+[1869.1s - 1871.1s] objections are also created.
+[1871.1s - 1873.1s] In this way
+[1873.1s - 1875.1s] the trial takes place
+[1875.1s - 1877.1s] and then the sin
+[1877.1s - 1879.1s] and the exchange desciیں
+[1879.1s - 1883.1s] in one unborn saturied
+[1883.1s - 1885.1s] form.
+[1885.1s - 1887.1s] Heカ borders
+[1887.1s - 1897.1s] unnie
+[1897.1s - 1907.1s] ایبند
+[1907.1s - 1909.1s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[1937.1s - 1957.1s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[1957.1s - 1977.1s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[1977.1s - 1985.1s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[2077.1s - 2079.1s] موسیقی

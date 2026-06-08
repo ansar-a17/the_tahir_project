@@ -1,0 +1,602 @@
+[0.0s - 6.0s] ازام دینے والے آتے ہیں، ازام دینے والے، ازام دینے والے، قبائل صاحب
+[10.0s - 27.0s] لا حُكبر لا حُكبر لا حُكبر لا حُكبر لا حُكبر
+[27.0s - 37.0s] اشخد اللہ اللہ اللہ
+[39.0s - 48.0s] اشخد اللہ اللہ اللہ
+[49.0s - 56.0s] اشخد ان محمد رسول اللہ
+[57.0s - 87.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[87.0s - 117.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[117.0s - 147.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[147.0s - 177.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[177.0s - 207.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[207.0s - 237.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[237.0s - 267.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[267.0s - 297.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[297.0s - 327.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[327.0s - 357.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[357.0s - 387.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[387.0s - 417.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[417.0s - 447.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[447.0s - 477.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[477.0s - 507.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[507.0s - 537.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[537.0s - 567.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[567.0s - 597.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[597.0s - 627.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[627.0s - 657.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[657.0s - 687.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[687.0s - 717.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[717.0s - 747.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[747.0s - 777.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[777.0s - 807.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[807.0s - 837.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[837.0s - 867.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[867.0s - 897.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[897.0s - 927.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[927.0s - 957.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[957.0s - 987.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[987.0s - 1017.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1017.0s - 1047.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1047.0s - 1077.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1077.0s - 1107.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1107.0s - 1137.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1137.0s - 1167.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1167.0s - 1197.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1197.0s - 1227.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1227.0s - 1257.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1257.0s - 1287.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1287.0s - 1317.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1317.0s - 1347.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1347.0s - 1377.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1377.0s - 1407.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1407.0s - 1437.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1437.0s - 1467.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1467.0s - 1497.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1497.0s - 1527.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1527.0s - 1557.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1557.0s - 1587.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1587.0s - 1617.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1617.0s - 1647.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1647.0s - 1677.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1677.0s - 1707.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1707.0s - 1737.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1737.0s - 1767.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1767.0s - 1797.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1797.0s - 1827.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1827.0s - 1857.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1857.0s - 1887.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1887.0s - 1917.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1917.0s - 1947.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1947.0s - 1977.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[1977.0s - 2007.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[2007.0s - 2037.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[2037.0s - 2067.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[2067.0s - 2097.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[2097.0s - 2127.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[2127.0s - 2157.0s] محمد رسول اللہ صلی اللہ علیہ وسلم
+[2157.0s - 2173.0s] If there is a claim of love from the Holy Prophet, then according to you, it is written in the Holy Qur'an بالمومنین رعوف الرحیم بالمومنین رعوف الرحیم This is the principle that for the believers is Rauf, that is, the attribute of God Rauf has been stated about you.
+[2173.0s - 2180.2s] حص زیادہ غیر معمولی غیر معمولی، غیر معمولی، نرمی رکھنے والا حص زیادہ غیر معمولی، غیر معمولی، نرمی رکھنے والا
+[2180.2s - 2185.0s] And to treat with love, sympathy and mercy.
+[2185.0s - 2192.4s] رحیم، فی اس کا رحم ختم ہی نہیں ہوتا رحم جل و غیر ہوتا ہے رحم جل و غیر ہوتا ہے،
+[2192.4s - 2195.3s] رحم جل و غیر ہوتا ہے، رحم جل و غیر ہوتا ہے، بار بار ان کی لئے رحم جوش مارتا ہے。
+[2195.3s - 2209.3s] If you love the Holy Prophet ﷺ, you should love the one whom you love and if you love, you should not be lazy.
+[2209.3s - 2211.3s] This is impossible.
+[2211.3s - 2221.3s] If something has happened in the past, it will be for higher purposes but not for laziness.
+[2221.3s - 2228.3s] As I have given an example, the Holy Prophet ﷺ was asked by his wife,
+[2228.3s - 2230.3s] ''O Prophet, are you making a mess?''
+[2230.3s - 2234.3s] She said, ''No, what I am saying is not a mess.''
+[2234.3s - 2240.3s] Because he used to keep an eye on the inner state of his heart.
+[2240.3s - 2248.3s] He knew that there is nothing to be kept in these impure movements.
+[2248.3s - 2250.3s] There is no bad intention
+[2250.3s - 2255.3s] which has to do with hatred or to make fun of someone.
+[2255.3s - 2258.3s] In fact, for certain purposes, sometimes,
+[2258.3s - 2262.3s] we have to talk about certain things in the presence of someone.
+[2262.3s - 2264.3s] And that is a completely different purpose.
+[2264.3s - 2268.3s] It is not a gathering mischief.
+[2268.3s - 2271.3s] So, keeping these things separate, I am stating that
+[2271.3s - 2276.3s] whoever the Holy Prophet ﷺ loved,
+[2276.3s - 2280.3s] if you love the Holy Prophet ﷺ,
+[2280.3s - 2285.3s] then you should also try to love him in the same way.
+[2285.3s - 2287.3s] And regarding this,
+[2287.3s - 2294.3s] all the Muslims are waiting for you to become your Rauf and Raheem.
+[2294.3s - 2298.3s] They want you to treat them like Rauf and Raheem.
+[2298.3s - 2303.3s] Because you claim that you are a lover of Rauf and Raheem.
+[2303.3s - 2309.3s] So, in this regard, if you expand your relationships in the direction of goodness,
+[2309.3s - 2316.3s] then your goodness will become a shadow on all Muslims.
+[2316.3s - 2321.3s] And under that shadow, the plant of sin does not grow.
+[2321.3s - 2325.3s] There are some plants that die under some shadows.
+[2325.3s - 2332.3s] So, the plant of sin also cannot be restored under the shadow of Rauf and Raheem.
+[2332.3s - 2334.3s] So, this is also a method.
+[2334.3s - 2337.3s] Then, make it even greater.
+[2337.3s - 2341.3s] And make it even greater for human beings.
+[2341.3s - 2343.3s] So, as a result of that,
+[2343.3s - 2346.3s] there is a concept of the mercy of the worlds
+[2346.3s - 2353.3s] which will make you disloyal when it comes to loving human beings.
+[2353.3s - 2356.3s] It will make you disloyal when it comes to keeping love.
+[2356.3s - 2358.3s] I am saying disloyal because
+[2358.3s - 2362.3s] here too, I am not talking about disloyal love.
+[2362.3s - 2364.3s] Disloyal love is nothing.
+[2364.3s - 2366.3s] Disloyal love,
+[2366.3s - 2369.3s] is a hypocritical concept
+[2369.3s - 2372.3s] which has no reality.
+[2372.3s - 2375.3s] But, the true love which is born from human beings
+[2375.3s - 2380.3s] is a very deep
+[2380.3s - 2384.3s] a kind of
+[2384.3s - 2389.3s] it is born as a result of Jihad.
+[2389.3s - 2392.3s] Now, the word Jihad and love obviously do not have any connection
+[2392.3s - 2395.3s] but I am telling you the reality
+[2395.3s - 2397.3s] that the Holy Prophet
+[2397.3s - 2401.3s] who was in love with human beings at that time
+[2401.3s - 2405.3s] because he was breaking away from the love of Allah
+[2405.3s - 2408.3s] that is why there was no need for any Jihad in it.
+[2408.3s - 2412.3s] But a common person who is away from these things
+[2412.3s - 2415.3s] he needs Jihad because
+[2415.3s - 2419.3s] he will feel that he has to keep my initial, fundamental love.
+[2419.3s - 2423.3s] And to establish a true relationship of love with Allah
+[2423.3s - 2430.3s] and to keep a true relationship of love with the Holy Prophet
+[2430.3s - 2435.3s] which will affect other loves
+[2435.3s - 2438.3s] and its benefit will become common
+[2438.3s - 2441.3s] and spread to all human beings
+[2441.3s - 2444.3s] this is not an ordinary thing.
+[2444.3s - 2447.3s] For this, keeping an eye on your love
+[2447.3s - 2449.3s] and looking at its shortcomings
+[2449.3s - 2451.3s] and trying to remove them
+[2451.3s - 2457.3s] there is a need to develop a high level of temperament and taste.
+[2457.3s - 2460.3s] And without a high level of temperament and taste
+[2460.3s - 2466.3s] neither can you love Allah nor can you love the Messenger of Allah.
+[2466.3s - 2468.3s] If the taste is spoiled
+[2468.3s - 2472.3s] then the love is also spoiled.
+[2472.3s - 2474.3s] This is a natural thing
+[2474.3s - 2477.3s] which you can ignore and sometimes
+[2477.3s - 2480.3s] you cannot even find a solution to your spiritual problems.
+[2480.3s - 2482.3s] People think that
+[2482.3s - 2484.3s] I try to love Allah a lot
+[2484.3s - 2486.3s] and I pray a lot
+[2486.3s - 2488.3s] but I don't enjoy it
+[2488.3s - 2490.3s] neither in prayers nor in good deeds
+[2490.3s - 2493.3s] and why don't they listen to me?
+[2493.3s - 2496.3s] There can be one reason
+[2496.3s - 2499.3s] that your taste is spoiled.
+[2499.3s - 2501.3s] And as a result of spoiling your taste
+[2501.3s - 2503.3s] your mind will always
+[2503.3s - 2506.3s] be absorbed in the pleasures of the world
+[2506.3s - 2509.3s] which you naturally see as good
+[2509.3s - 2511.3s] and beautiful.
+[2511.3s - 2513.3s] And
+[2513.3s - 2515.3s] the taste of the love of Allah
+[2515.3s - 2516.3s] or the goodness of Allah
+[2516.3s - 2518.3s] is not developed.
+[2518.3s - 2521.3s] When this taste is not correct
+[2521.3s - 2523.3s] then the love will remain temporary.
+[2523.3s - 2525.3s] It remains to the extent of a claim
+[2525.3s - 2527.3s] and therefore
+[2527.3s - 2529.3s] it does not break from the heart as a strength.
+[2529.3s - 2531.3s] And without this
+[2531.3s - 2533.3s] your reformation is not possible.
+[2533.3s - 2535.3s] And as I have stated
+[2535.3s - 2537.3s] the problem of absence
+[2537.3s - 2539.3s] is not as easy as people think.
+[2539.3s - 2541.3s] Until your taste is not correct
+[2541.3s - 2543.3s] and the love of Allah
+[2543.3s - 2545.3s] is not born in your heart
+[2545.3s - 2547.3s] and that look
+[2547.3s - 2549.3s] which Allah
+[2549.3s - 2551.3s] has given you
+[2551.3s - 2553.3s] until that time
+[2553.3s - 2555.3s] you will not know
+[2555.3s - 2557.3s] that you are spoiling
+[2557.3s - 2559.3s] the flesh of your dead brother.
+[2559.3s - 2561.3s] And not having a compulsion
+[2561.3s - 2563.3s] is a sign of your spoiled taste.
+[2563.3s - 2565.3s] So
+[2565.3s - 2567.3s] we have such a clear sign
+[2567.3s - 2569.3s] in our hands
+[2569.3s - 2571.3s] that
+[2571.3s - 2573.3s] taking advantage
+[2573.3s - 2575.3s] of our internal circumstances
+[2575.3s - 2577.3s] is not a fictitious thing
+[2577.3s - 2579.3s] but it has become a definite reality.
+[2579.3s - 2581.3s] So to the extent
+[2581.3s - 2583.3s] that we are
+[2583.3s - 2585.3s] failing
+[2585.3s - 2587.3s] in terms of
+[2587.3s - 2589.3s] the result of this
+[2589.3s - 2591.3s] fraud
+[2591.3s - 2593.3s] we should worry to that extent.
+[2593.3s - 2595.3s] That this is not a lie
+[2595.3s - 2597.3s] but it is a lie.
+[2597.3s - 2599.3s] So if you
+[2599.3s - 2601.3s] correct your taste
+[2601.3s - 2603.3s] then you will love God.
+[2603.3s - 2605.3s] If you correct your taste
+[2605.3s - 2607.3s] then you will love the Prophet.
+[2607.3s - 2609.3s] If you correct your taste
+[2609.3s - 2611.3s] then you can be away from sins
+[2611.3s - 2613.3s] and you can love good things
+[2613.3s - 2615.3s] otherwise it is not possible.
+[2615.3s - 2617.3s] So regarding the loss
+[2617.3s - 2619.3s] I request you
+[2619.3s - 2621.3s] to take permission
+[2621.3s - 2623.3s] of your own day
+[2623.3s - 2625.3s] if you
+[2625.3s - 2627.3s] do not
+[2627.3s - 2629.3s] take a breath
+[2629.3s - 2631.3s] and if you take
+[2631.3s - 2633.3s] your time
+[2633.3s - 2635.3s] then your taste and interest
+[2635.3s - 2637.3s] is decreasing or not
+[2637.3s - 2639.3s] if it is decreasing
+[2639.3s - 2641.3s] then thank God
+[2641.3s - 2643.3s] you are surviving
+[2643.3s - 2645.3s] you are healthy
+[2645.3s - 2647.3s] if you forcefully
+[2647.3s - 2649.3s] listen to the advice
+[2649.3s - 2651.3s] and say I do not want to do this
+[2651.3s - 2653.3s] then it means
+[2653.3s - 2655.3s] that you have not reformed
+[2655.3s - 2657.3s] you have tried to cut off the relationship
+[2657.3s - 2659.3s] and those
+[2659.3s - 2661.3s] who are just now
+[2661.3s - 2663.3s] do not forcefully block their way
+[2663.3s - 2665.3s] they will be there for some time
+[2665.3s - 2667.3s] then they will open
+[2667.3s - 2669.3s] and sometimes
+[2669.3s - 2671.3s] more than before
+[2671.3s - 2673.3s] there is a flood of bad things
+[2673.3s - 2675.3s] so give importance
+[2675.3s - 2677.3s] to the matter of loss
+[2677.3s - 2679.3s] and see from that depth
+[2679.3s - 2681.3s] the way I have tried to explain
+[2681.3s - 2683.3s] and believe me
+[2683.3s - 2685.3s] that if we
+[2685.3s - 2687.3s] get rid of the unhappiness
+[2687.3s - 2689.3s] then our system
+[2689.3s - 2691.3s] will also be preserved
+[2691.3s - 2693.3s] our social relationships
+[2693.3s - 2695.3s] will also be preserved
+[2695.3s - 2697.3s] all the things
+[2697.3s - 2699.3s] that cause us
+[2699.3s - 2701.3s] if they are not removed
+[2701.3s - 2703.3s] then they will create
+[2703.3s - 2705.3s] an extraordinary deficiency
+[2705.3s - 2707.3s] and those bad results
+[2707.3s - 2709.3s] that we see daily
+[2709.3s - 2711.3s] will also have
+[2711.3s - 2713.3s] an extraordinary
+[2713.3s - 2715.3s] positive effect
+[2715.3s - 2717.3s] now you
+[2717.3s - 2719.3s] imagine houses
+[2719.3s - 2721.3s] I cannot go to every house
+[2721.3s - 2723.3s] but my thought can go
+[2723.3s - 2725.3s] and I understand
+[2725.3s - 2727.3s] what kind of people
+[2727.3s - 2729.3s] talk about this
+[2729.3s - 2731.3s] if
+[2731.3s - 2733.3s] there are
+[2733.3s - 2735.3s] small groups against sister-in-law
+[2735.3s - 2737.3s] and there is a separate gathering
+[2737.3s - 2739.3s] with mother-in-law
+[2739.3s - 2741.3s] and you know how to
+[2741.3s - 2743.3s] fulfill the rights of your wife
+[2743.3s - 2745.3s] that is also included
+[2745.3s - 2747.3s] and a lot of jokes are made on it
+[2747.3s - 2749.3s] that this woman
+[2749.3s - 2751.3s] did this and that
+[2751.3s - 2753.3s] and we think
+[2753.3s - 2755.3s] that now we will understand
+[2755.3s - 2757.3s] who we are
+[2757.3s - 2759.3s] and who she is
+[2759.3s - 2761.3s] now all this is
+[2761.3s - 2763.3s] cruelty
+[2763.3s - 2765.3s] it is corruption
+[2765.3s - 2767.3s] and there is also injustice
+[2767.3s - 2769.3s] and in this
+[2769.3s - 2771.3s] if
+[2771.3s - 2773.3s] if a daughter-in-law
+[2773.3s - 2775.3s] made a mistake
+[2775.3s - 2777.3s] and you have
+[2777.3s - 2779.3s] true sympathy for her
+[2779.3s - 2781.3s] which should be
+[2781.3s - 2783.3s] in the result of the relation of the Prophet
+[2783.3s - 2785.3s] then you will be her mirror
+[2785.3s - 2787.3s] in separation
+[2787.3s - 2789.3s] you will make her understand with love
+[2789.3s - 2791.3s] and
+[2791.3s - 2793.3s] you will feel her pain yourself
+[2793.3s - 2795.3s] laughter
+[2795.3s - 2797.3s] and pain do not come together
+[2797.3s - 2799.3s] if there is
+[2799.3s - 2801.3s] shame
+[2801.3s - 2803.3s] sometimes it changes into anger
+[2803.3s - 2805.3s] but
+[2805.3s - 2807.3s] it does not change into
+[2807.3s - 2809.3s] the glimpses of things
+[2809.3s - 2811.3s] this is how it seems
+[2811.3s - 2813.3s] as if there was a search
+[2813.3s - 2815.3s] that there should not be any mistake
+[2815.3s - 2817.3s] then we unite
+[2817.3s - 2819.3s] and then we laugh at it
+[2819.3s - 2821.3s] and make fun of it
+[2821.3s - 2823.3s] and humiliate its husband
+[2823.3s - 2825.3s] and then he comes in anger
+[2825.3s - 2827.3s] and then we feel cold
+[2827.3s - 2829.3s] the beginning of the journey
+[2829.3s - 2831.3s] is from hatred
+[2831.3s - 2833.3s] the beginning of the journey
+[2833.3s - 2835.3s] is the beginning of the
+[2835.3s - 2837.3s] cruel and
+[2837.3s - 2839.3s] shameful journey
+[2839.3s - 2841.3s] the whole journey started
+[2841.3s - 2843.3s] with the intention of a brutal attack
+[2843.3s - 2845.3s] and all the actions took place
+[2845.3s - 2847.3s] and then they think that we have won
+[2847.3s - 2849.3s] we have defeated
+[2849.3s - 2851.3s] that girl
+[2851.3s - 2853.3s] and
+[2853.3s - 2855.3s] she was snatched
+[2855.3s - 2857.3s] this is a very cruel sin
+[2857.3s - 2859.3s] if there is love
+[2859.3s - 2861.3s] from the Messenger of God
+[2861.3s - 2863.3s] Muhammad
+[2863.3s - 2865.3s] then this
+[2865.3s - 2867.3s] should echo in the ears
+[2867.3s - 2869.3s] the voice should echo in the ears
+[2869.3s - 2871.3s] that
+[2871.3s - 2873.3s] that
+[2873.3s - 2875.3s] the believer is
+[2875.3s - 2877.3s] the mirror of the believer
+[2877.3s - 2879.3s] is the word mirat
+[2879.3s - 2881.3s] mirat
+[2881.3s - 2883.3s] al muslim
+[2883.3s - 2885.3s] mirat al muslim
+[2885.3s - 2887.3s] al muslimu miratul muslime
+[2887.3s - 2889.3s] that the believer
+[2889.3s - 2891.3s] is the mirror of the other Muslim
+[2891.3s - 2893.3s] is the mirror of the other Muslim
+[2893.3s - 2895.3s] so I have already told you
+[2895.3s - 2897.3s] that a mirror does not make noise
+[2897.3s - 2899.3s] a mirror
+[2899.3s - 2901.3s] whose ugly
+[2901.3s - 2903.3s] does not tell the other person
+[2903.3s - 2905.3s] that he is such an ugly person
+[2905.3s - 2907.3s] who has seen me
+[2907.3s - 2909.3s] has seen his face inside me
+[2909.3s - 2911.3s] but whenever someone sees a mirror
+[2911.3s - 2913.3s] he definitely tells her
+[2913.3s - 2915.3s] he does not see the mirror
+[2915.3s - 2917.3s] he does not see the mirror
+[2917.3s - 2919.3s] so there are many
+[2919.3s - 2921.3s] prudent points
+[2921.3s - 2923.3s] on which
+[2923.3s - 2925.3s] I have once stated in a sermon
+[2925.3s - 2927.3s] I will point out on them
+[2927.3s - 2929.3s] I will not repeat them
+[2929.3s - 2931.3s] that if
+[2931.3s - 2933.3s] the Holy Prophet
+[2933.3s - 2935.3s] true love
+[2935.3s - 2937.3s] so this voice will echo in the ears
+[2937.3s - 2939.3s] and you will try to become a mirror
+[2939.3s - 2941.3s] and that poor girl
+[2941.3s - 2948.6s] It is not appropriate to say that we are ashamed and your status has also fallen in the eyes of the world.
+[2948.6s - 2956.6s] If true sympathy is spoken, then it benefits and society is prosperous.
+[2956.7s - 2964.4s] But it is not necessary that the direction is always towards the sisters-in-law or the daughters-in-law.
+[2964.4s - 2971.7s] The direction of some daughters-in-law is also towards the sisters-in-law and their mother.
+[2971.8s - 2978.2s] Those crimes which are against them, sometimes they do it against others.
+[2978.2s - 2983.2s] And they have a desire to separate their husband from all of them.
+[2983.3s - 2987.8s] And then they get the peace when they break their relationship with their parents,
+[2987.8s - 2990.3s] break their relationship with their sisters and brothers
+[2990.4s - 2994.4s] and their parents and sisters-in-law remain.
+[2994.5s - 2997.2s] And this is not such a situation which happens sometimes.
+[2997.3s - 3000.7s] This is seen on a daily basis.
+[3000.8s - 3005.0s] Although when the Holy Quran stated the subject of marriage,
+[3005.1s - 3010.7s] then it stated in such a way that the parents of both have become one.
+[3010.8s - 3014.8s] It mentioned the relationship of mercy which is equal on both sides.
+[3014.9s - 3019.4s] So in this regard, we should try to reform the society
+[3019.5s - 3024.4s] and here too, the unseen has a very bad effect.
+[3024.5s - 3030.8s] Whether the wife of the husband is losing her mother-in-law and her mother-in-law
+[3030.9s - 3035.5s] or the husband is losing her.
+[3035.6s - 3039.0s] And repeatedly try to express that I am a man,
+[3039.1s - 3042.4s] they treat me this way, they laugh at me this way,
+[3042.5s - 3045.2s] this has been done to me.
+[3045.2s - 3051.8s] And do it in such a way that the one who should be reformed does not even know.
+[3051.9s - 3054.2s] And the one who is complained about,
+[3054.3s - 3059.2s] his heart is filled with hatred and disgust.
+[3059.3s - 3061.9s] So this is not a blessed attempt.
+[3062.0s - 3065.3s] This destroys the society.
+[3065.4s - 3067.8s] So this very subject,
+[3067.9s - 3071.2s] that is, the subject of saving oneself from the unseen,
+[3071.2s - 3076.1s] if you look at it in terms of the relationship between Allah and His Messenger ,
+[3076.2s - 3078.8s] then this work will become easy.
+[3078.9s - 3081.0s] Sometimes these two people,
+[3081.1s - 3082.8s] these two types of people,
+[3082.8s - 3085.1s] in terms of religion,
+[3085.2s - 3087.5s] do not have so many misgivings.
+[3087.6s - 3091.4s] In other words, they have such compartments
+[3091.5s - 3094.4s] that the illness is closed on one side in four walls
+[3094.4s - 3098.0s] and the other four walls are unwell.
+[3098.1s - 3101.8s] Sometimes the illness is confined in one of the rooms.
+[3101.9s - 3112.0s] So this does not mean that the whole body has become dirty and unwell.
+[3112.0s - 3115.6s] In such people, there is goodness and there are also good things.
+[3115.6s - 3118.3s] They write letters of prayer that we should develop love for Allah,
+[3118.4s - 3120.0s] we should develop love for the Messenger of Allah,
+[3120.0s - 3122.5s] they should sacrifice more for the sake of religion.
+[3122.6s - 3126.8s] And some women also write about their husbands that this is bad,
+[3126.9s - 3128.7s] but it is very good.
+[3128.8s - 3131.0s] He is a prayer-maker, he is a religious man,
+[3131.1s - 3133.6s] he respects the system of the Community.
+[3133.6s - 3136.6s] So if you tell him, he will agree.
+[3136.6s - 3139.6s] So this means that not every illness is necessary
+[3139.6s - 3141.8s] that all the system of the body has been controlled.
+[3142.0s - 3145.9s] Some parts have been controlled and some parts have not been controlled.
+[3146.0s - 3149.2s] For them, health is more likely.
+[3149.3s - 3153.2s] Those whose cancer is limited to some small organs,
+[3153.3s - 3157.1s] the seeds of it have not spread on the rest of the body.
+[3157.2s - 3159.3s] And if the rest of the body is recovered,
+[3159.4s - 3162.6s] then he can fight it.
+[3162.7s - 3168.3s] If the love of Allah and the Messenger of Allah is found in the other organs of the body,
+[3168.3s - 3172.8s] then whatever part of the body is sick, it can be cured with the help of this.
+[3172.8s - 3175.7s] Now, ever think that the actions that have been done,
+[3175.8s - 3177.9s] or the heart wants to do,
+[3178.0s - 3182.0s] that does the Messenger of Allah like this?
+[3182.1s - 3183.4s] Or according to you,
+[3183.5s - 3187.3s] the way the Holy Prophet understood the nature of God,
+[3187.4s - 3189.5s] and he put himself according to it,
+[3189.6s - 3192.2s] does Allah like this?
+[3192.2s - 3193.4s] If not,
+[3193.4s - 3198.1s] then in which account will the prayers of the love of God go?
+[3198.3s - 3201.9s] These are the things that after thinking about them,
+[3202.0s - 3206.9s] we came to know that both God hates them and the Messenger of God hates them.
+[3207.0s - 3210.4s] And the prayers are that O Allah, by giving your love,
+[3210.5s - 3212.6s] by giving the love of the one whom you love,
+[3212.6s - 3215.8s] by giving the love of the one who gives you love,
+[3215.8s - 3220.2s] by giving the love of the things that your love creates in your heart,
+[3220.2s - 3227.5s] make your love so much that the thirsty person becomes the love of water.
+[3227.5s - 3229.4s] These are the prayers.
+[3229.5s - 3232.0s] And those actions,
+[3232.0s - 3234.6s] unconsciously, without thinking,
+[3234.7s - 3236.7s] are sometimes understood.
+[3236.8s - 3238.1s] They are going on,
+[3238.2s - 3240.5s] those who are the beneficiaries of the love of God,
+[3240.6s - 3243.5s] those who are going to destroy them.
+[3243.6s - 3245.9s] Now, what I am saying is that they are going to destroy them.
+[3246.0s - 3247.2s] So, in the meantime,
+[3247.2s - 3251.2s] the same thing has been said by the Holy Prophet .
+[3251.2s - 3253.4s] If you destroy them,
+[3253.5s - 3256.4s] then you will destroy them with Allah.
+[3256.4s - 3260.4s] So, I am presenting to you all the examples of mercy and mercy.
+[3260.4s - 3263.2s] Whether the daughter-in-law is dealing with the relationship of the husband
+[3263.2s - 3266.2s] and the rest is dealing with the relationship of mercy and mercy,
+[3266.3s - 3268.8s] or is trying to create mercy and mercy,
+[3268.8s - 3271.8s] or the other relative is dealing with the relationship of mercy and mercy
+[3271.8s - 3274.4s] in the relationship of the daughter-in-law,
+[3274.5s - 3278.5s] in both cases, the other virtues will remain in their place
+[3278.6s - 3283.4s] and this thing of Allah and the Messenger of Allah will certainly come true.
+[3283.4s - 3286.1s] That Allah will take away the relationship of His mercy from such people.
+[3286.1s - 3288.1s] Fire.
+[3288.2s - 3289.9s] O Allah,
+[3308.4s - 3310.6s] It is covered with coziness of Muslims,
+[3310.7s - 3312.1s] just because it is right.
+[3312.2s - 3313.7s] This is what happened
+[3313.8s - 3315.9s] to Muslims for five years.
+[3315.9s - 3345.9s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[3345.9s - 3375.9s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[3375.9s - 3405.9s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[3405.9s - 3435.9s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[3435.9s - 3441.7s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[3441.7s - 3451.7s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[3451.8s - 3461.5s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[3461.5s - 3464.1s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[3464.1s - 3465.1s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Radiew Breakfast.
+[3465.1s - 3465.7s] Transcribe exactly as spoken. Do not translate Arabic into Urdu, English, or Arabic.
+[3465.7s - 3470.7s] اگر آیا تھا تو ابھی تک آپ بھائی کا گوشت کھونا چھوڑیں چھوڑ نہیں رہے۔
+[3470.7s - 3474.7s] نہ چھوڑ سکتے ہیں کیونکہ آپ کا ذوق ہی نہیں ٹھیک ہوا۔
+[3474.7s - 3480.7s] پس اس کو تو میں سمجھتا ہوں جہاد کی صورت میں لینا چاہیے سامنے۔
+[3480.7s - 3486.7s] غیبت کا قلعہ کمہ جماعت میں اگر ہو جائے تو بہت عظیم کا کامیابی ہوگی۔
+[3486.7s - 3493.7s] میں جو امریکہ دورے پہ گیا، اب دیکھیں کتنا ایڈوانس ملک ہے، دنیا کے علاوہ سے اتنا ترفریع ہافتہ،
+[3493.7s - 3499.7s] لیکن وہاں میں حیران ہو گیا دیکھ کر کہ بعض جماعتوں میں خوب غیبت چل رہی ہے۔
+[3499.7s - 3506.7s] ایسی کراہت پیدا ہوتی تھی سن کر کہ میں حیران ہوتا تھا کہ ان مخلصین کو ہو کیا گیا ہے۔
+[3506.7s - 3511.7s] بعض جماعتوں میں مرد بھی غیبت کر رہے ہیں، عورتیں بھی غیبت کر رہے ہیں۔
+[3511.7s - 3520.7s] یوں لگتا کہ گوشتخوروں کی ایسی جماعت ہے جسے صحت مند حلال گوشت میں وہ مزا نہیں ملتا جتنا مردہ گوشت میں ملتا ہے،
+[3520.7s - 3522.7s] اور پھر وہ بھی انسانی مردہ گوشت مل جائے،
+[3523.7s - 3531.7s] کیونکہ کہتے ہیں شیر کو جس کو انسان کا خون موں کو لگ جائے اسے کوئی اور جانور پسند ہی نہیں رہتا۔
+[3531.7s - 3538.7s] تو اس پہلے سے بھی رسول اکرم صلی اللہ علیہ وآلہ وسلم کی مثال بہت گہرہ ہی رکھتی ہے۔
+[3538.7s - 3546.7s] انسانی گوشت مردے کی عادت پڑھ جائے جس کو کھانے کی اس سے وہ عادت چھٹانا بڑا مشکل تھا۔
+[3546.7s - 3549.7s] اور اس گوشت میں مزا ہی بڑا ہے۔
+[3549.7s - 3553.7s] انسان کی غیبت میں جو مزا ہے جو جن کے گوشت ذوق بگئی ہے،
+[3553.7s - 3561.7s] جن کے گھڑا ہو اس ذوق کو بدلنا وہ مزا ان کے موں سے چھیننا بڑا مشکل کام ہے۔
+[3561.7s - 3563.7s] تو وہاں یہ ہے۔
+[3563.7s - 3565.7s] اب میں امریکہ کی بدنامی کی طور پر نہیں کر رہا،
+[3565.7s - 3570.7s] میں جانتا ہوں پاکستان میں بھی بہت سی جماعتوں میں ایسی باتیں پائی جاتی ہیں۔
+[3570.7s - 3573.7s] جرمنی میں بھی پائی جاتی ہیں، انگلستان میں بھی پائی جاتی ہیں۔
+[3573.7s - 3578.7s] مگر میں نے مثال دی تھی ایک تازہ سفر کی یاد داشت کے طور پر
+[3578.7s - 3582.7s] اور وہ لوگ جو جانتے ہیں کہ میں کن کی باتیں کر رہا ہوں،
+[3582.7s - 3585.7s] ان کو استغفار کرنا چاہیے
+[3585.7s - 3590.7s] اور اپنے اپنے دائرے میں یہ جہاد شروع کرنا چاہیے کہ غیبت نہیں کرنی۔
+[3590.7s - 3599.7s] بعض دفعہ غیبت کی بجائے مجلس کی امانت کا حق نہ رکھا جائے تو وہ بھی غیبت بن جاتی ہے۔
+[3599.7s - 3603.7s] ہم جب آپس میں ملتے ہیں، ایک دوسرے کے ساتھ باتیں کرتے ہیں
+[3603.7s - 3609.7s] تو بعض دفعہ ایک شخص غیبت کی نیت سے نہیں
+[3609.7s - 3611.7s] بلکہ بعض
+[3611.7s - 3613.7s] حوالوں کی وجہ سے
+[3613.7s - 3616.7s] ایک شخص کا ذکر کر دیتا ہے جسے سب جانتے ہیں
+[3616.7s - 3618.7s] اس کی کوئی
+[3618.7s - 3621.7s] چھوپی ہوئی بدی بیان نہیں کی جاتی جس کا ان کو علم نہ ہو۔
+[3621.7s - 3626.7s] بلکہ کسی گفتگو کے حوالے سے از خود یہ بات جاری ہو جاتی ہے۔
+[3626.7s - 3629.7s] اگر کوئی شخص اس بات کو اٹھائے
+[3629.7s - 3632.7s] اور باہر بیان کر دے
+[3632.7s - 3636.7s] تو یہ امانت میں خیانت ہے
+[3636.7s - 3638.7s] کیونکہ
+[3638.7s - 3641.7s] مجالس کے متعلق آن حضرت صلی اللہ علیہ وسلم نے فرمایا
+[3641.7s - 3644.7s] یہ امانتیں ہیں۔
+[3644.7s - 3647.7s] اور ان کی بات بغیر اجازت کے
+[3647.7s - 3651.7s] بغیر حق کے باہر کرنا ایک گناہ ہے۔
+[3651.7s - 3656.7s] اور یہ بھی ایک ایسی چیز ہے جس کے متعلق بہت احتیاط کی ضرورت ہے۔
+[3656.7s - 3660.7s] لیکن میں اصول بتا دیتا ہوں کہ کہاں امانت ہے کہاں
+[3660.7s - 3665.7s] ایک عوامی حق ہے کہ آپ یہ باتیں آگے پہنچائیں۔
+[3665.7s - 3669.7s] جہاں ایک ایسی نصیت ہے جس کا
+[3669.7s - 3677.7s] بنی نوع انسان کی بہتری سے تعلق ہے، بھلائی سے تعلق ہے، ایسی بات ہے جس کو سن کر ایمان تازہ ہوتا ہے۔
+[3677.7s - 3682.7s] تو یہ وہ امانت نہیں ہے جس سے آپ پوچھے بغیر آگے بیان نہیں کر سکتے۔
+[3682.7s - 3693.7s] اس کے متعلق آن حضرت صلی اللہ علیہ وآلہ وسلم نے فرمایا کہ جو حاضر شاہد ہے وہ غائب کو یہ باتیں بیان کرے۔
+[3693.7s - 3698.7s] کیونکہ اچھی باتیں ہیں اور ان کے نتیجے میں خیر پھیلتی ہے۔
+[3698.7s - 3699.7s] مگر اگر
+[3699.7s - 3711.7s] اس مجلس میں کسی ایک شخص کا ذکر آیا ہے اور اس کو اگر دوسروں میں بیان کیا جائے تو اس شخص کے خلاف دلوں میں نفرت پھیلے گی۔
+[3711.7s - 3717.7s] تو اس کو دوسروں میں بیان کرنا بھی نجائز اس تک بات پہنچانا بھی نجائز۔
+[3717.7s - 3727.7s] اور اگر کسی مقصد مجبوری سے بات کرنی ہو تو لازم ہے کہ اسے اجازت بھی جائے جس نے ایک مجلس میں یہ بات کی تھی۔
+[3727.7s - 3728.7s] یہ اصول اگر ہم
+[3728.7s - 3729.7s] اس پوری طرح
+[3729.7s - 3735.7s] اس اصول پر کار بند ہو جائیں تو غیبت کے سارے رستے بند ہو جاتے ہیں۔
+[3735.7s - 3747.7s] مگر بعض لوگ اتنے بےہتیات ہوتے ہیں کہ مجھ سے ملاقات میں جو امانت کے تقاضے ہیں وہ بھی پورے نہیں کرتے بلکہ ان میں بگاڑ پیدا کر دیتے ہیں۔
+[3747.7s - 3755.7s] کئی لوگ جن کے جھگڑے ہیں خامدوں کے بیویوں سے بیویوں کے خامد سے خاندانوں کے آپس میں وہ ملاقات کے وقت یہ بات شیرتے ہیں۔
+[3755.7s - 3758.7s] میں ان کو بار بار سنجھانے کی کوشش کرتا ہوں
+[3758.7s - 3764.7s] کہ یہ ذاتی ملاقات کا وقت آپس میں محبت اور پیار کی کھلی کھلی باتیں کرنے کا وقت ہے۔
+[3764.7s - 3768.7s] یہ جھگڑوں کا وقت نہیں ہے اس کے لئے الگ نظام مقرر ہے۔
+[3768.7s - 3770.7s] لیکن وہ بازی نہیں آتے۔
+[3770.7s - 3776.7s] زبدستی اپنے دل کا غیظ اوال کر میرے دل میں داخل کرنے کی کوشش کرتے ہیں۔
+[3776.7s - 3784.7s] کئی دفعہ میں نے دیکھا میں ان کو آخر کہتا ہوں کہ دیکھو جو تم نقشے کھینچ رہے ہو اگر یہ درست ہیں
+[3784.7s - 3787.7s] تو تم نے بڑی جہالت کی ہے جو وہاں جاکی گرے۔
+[3787.7s - 3795.7s] تم کہتے ہو اتنا ضلیل خاندان ہے ایسا گیا گزرا ہے جو تم باتیں بیان کرتے ہیں تو اتنی کمینی ہیں
+[3795.7s - 3798.7s] کہ پھر تم نے اپنی بیٹی کو پھینکا کیوں وہاں؟
+[3798.7s - 3803.7s] کہ اپنے بیٹے کو اس گھر میں گھر کے سپورش کیوں کیا؟
+[3803.7s - 3805.7s] یہ ایک الزامی جواب ہوتا ہے۔
+[3805.7s - 3812.7s] بعض لوگ اسے لے کر چلتے ہیں اور کہتے ہیں لو جی حضرت قریبت المسیح نے فرما دیا ہے کہ بڑے کمینہ خاندان ہیں۔
+[3812.7s - 3814.7s] بڑے ضلیل لوگ ہیں۔
+[3814.7s - 3817.7s] ان میں تم جاکی گرے کہاں؟
+[3817.7s - 3820.7s] اِنَّا لِلَّهِ وَإِنَّا لِلَّهِ رَاجِعُونَ
+[3820.7s - 3823.7s] پہلے وہ زبدستی مجھ پر ایک بات ٹھونستے ہیں
+[3823.7s - 3828.7s] پھر اس کا منطقی طبی نتیجہ نکال کر ان کی غلط انداز کو دکھانے کی خاطر
+[3828.7s - 3831.7s] یہ ایک تمثیلاً بات کرتا ہوں۔
+[3831.7s - 3835.7s] تو آگے پہنچاتے ہیں آپ یہ بتائیں یہ امانت کہاں رہی؟
+[3835.7s - 3843.7s] اور وہ جو خلیقہ وقت سے تعلق تقاضے ہیں ان کو کیسی ٹھوکر ماری گئے ہیں؟
+[3843.7s - 3846.7s] اور جو بے تکلفی سے پیار کے خاندانی محول میں
+[3846.7s - 3848.7s] ان سے باتیں ہو رہی ہیں ان کو سمجھایا جا رہا ہے
+[3848.7s - 3853.7s] نہیں سمجھتے تو ان کی منطق کو اٹھا کر ان کے سامنے کھڑا کیا جا رہا ہے۔
+[3853.7s - 3856.7s] اس کو غلط رنگر دے کر اگر جماعت میں پھیلا دیں
+[3856.7s - 3859.7s] تو کتنی بد نتائج اس کے پیدا ہوں گے؟
+[3859.7s - 3864.7s] بعض لوگ ان حوالوں کو لے کر قضاء تک جا پہنچتے ہیں۔
+[3864.7s - 3869.7s] چنانچہ مجھے ایک دفعہ قاضی صاحب صدر مجلس قضاء کا خط آیا
+[3869.7s - 3872.7s] کہ حضورﷺ کے حوالے سے یہ بات کہی جا رہی ہے
+[3872.7s - 3877.7s] ثابت ہوتا ہے کہ فلان شخص اپنے جھگڑے میں لازمان غلط ہے۔
+[3877.7s - 3880.7s] میں نے کہا جس نے کہا ہے وہ لازمان غلط ہے۔
+[3880.7s - 3883.7s] کیونکہ ایسی کوئی بات نہیں ہوئی یہ بات ہوئی ہے
+[3883.7s - 3888.7s] اور قضاء کے اصول کے تابع میں ہرگز کوئی فیصلہ
+[3888.7s - 3893.7s] قضاء کے معاملے میں دے سکتا ہوں نہ دیتا ہوں کبھی۔
+[3893.7s - 3899.7s] جس نے منزل بمنزل ترقی کر کے آخر میرے سامنے اپیل کی طور پر پہنچنا ہے۔
+[3899.7s - 3902.7s] جب میں آخری قاضی ہوں
+[3902.7s - 3906.7s] تو پہلی منزل پر اور پھر یک طرفاً فیصلہ دے کیسے سکتا؟
+[3906.7s - 3911.7s] لیکن آپ کو اتنی سی سمجھ نہیں کہ یہ نممکن ہے آپ کو رد کر دینا چاہیے۔
+[3911.7s - 3916.7s] اور اصول بنا لیں اور سب ججوں کو ہدایت کر دیں کہ اگر میرا حوالہ دیا گیا قضائی معاملے میں
+[3916.7s - 3919.7s] تو یا وہ جھوٹ بول رہا ہے یا وہ سمجھا نہیں ہے۔
+[3919.7s - 3923.7s] اور خواہ سمجھا نہ ہو خواہ جھوٹ بول رہا ہو
+[3923.7s - 3930.7s] ہر دو صورت میں ایسی باتوں کو قضاء میں ایک دلیل کے طور پر پیش نہیں کیا جا سکتا۔
+[3932.7s - 3938.7s] جہاں میں خیامتیں ہوتی ہیں جہاں غریبتوں پر جورتیں ہوتی ہیں تو بات کہاں سے کہاں پہنچ جاتی ہے۔
+[3938.7s - 3945.7s] پس میں امید رکھتا ہوں کہ جماعت باریک نظر سے ان باتوں کو سمجھے گی اور آئندہ اپنے کردار کی حفاظت کرے گی
+[3945.7s - 3949.7s] کیونکہ ہم سب دنیا پر شہید بنائے گئے ہیں۔
+[3949.7s - 3953.7s] تمام دنیا کے کردار کی ہم نے حفاظت کرنی ہے اسے عالی قدر تک پہنچانا ہے۔
+[3953.7s - 3956.7s] اللہ تعالیٰ ہم اس کی توفیق عطا فرمائے۔
+[3962.7s - 3972.7s] محمد الرسول اللہ صلی اللہ علیہ وسلم
+[3992.7s - 3994.7s] اللہ تعالیٰ علیہ وسلم
+[4022.7s - 4025.7s] رحمكم اللہ
+[4025.7s - 4033.7s] ان اللہ یعمر بالعضل والعصان و اطاع ذی القربان
+[4033.7s - 4040.7s] وینہا عن الفاشاء والمنكر والبغن
+[4040.7s - 4047.7s] يهذكم لعلكم فذكرون
+[4047.7s - 4052.7s] اذكر اللہ يذكركم
+[4052.7s - 4056.7s] ودوه يستجب لكم
+[4056.7s - 4061.7s] ولذكر الله اکبر
