@@ -32,7 +32,6 @@ More information is available at [alislam.org](https://www.alislam.org).
 | Total words | 1,250,000+ |
 | Date range | 1982 – 2003 |
 | Khilafat years covered | 1 – 21 |
-| Sermons with PDFs | 659 |
 | Sermons with transcripts | 927 |
 | Language (transcripts) | Urdu* |
 | Language (summaries) | English |
@@ -47,7 +46,6 @@ Mainly Urdu, with a few English sermons.
 the_tahir_project/
 ├── README.md                 # Project documentation
 ├── the_tahir_project.json    # Complete dataset
-├── pdfs/                     # PDF files of sermons
 ├── transcripts/              # Sermon transcriptions
 │   ├── [Date].txt            # Full transcription of sermon
 │   └── [Date].segments.txt   # Segmented transcription with timestamps
@@ -61,14 +59,13 @@ Each sermon entry in `the_tahir_project.json` includes:
 | `title` | Sermon date (serves as unique identifier) |
 | `url` | YouTube video link |
 | `duration` | Video length |
-| `pdf` | Path to PDF file (empty string if unavailable) |
+| `khilafat_year` | Year of Khilafat at time of delivery |
+| `primary_theme` | Main topic of the sermon |
 | `short_summary` | Brief English overview |
 | `detailed_summary` | Comprehensive English summary |
-| `primary_theme` | Main topic of the sermon |
+| `verses` | Quranic verses cited, in chapter:verse format |
 | `tags` | Relevant keywords and themes (3–8 per sermon) |
 | `raw_transcription` | Path to full Urdu transcript |
-| `verses` | Quranic verses cited, in chapter:verse format |
-| `khilafat_year` | Year of Khilafat at time of delivery |
 
 ---
 
@@ -86,9 +83,9 @@ All 927 sermon recordings were transcribed using [Whisper Large v3](https://open
 Each transcript was passed to Claude Opus 4.8 (Anthropic) via the Batch API for structured extraction. The model generated English short and detailed summaries, identified the primary theme, assigned tags, and extracted Quranic verse citations.
 
 **4. Metadata enrichment**
-YouTube metadata, PDF matching, duration, and khilafat year were added programmatically and verified manually where needed.
+YouTube metadata, duration, and khilafat year were added programmatically.
 
-Total pipeline cost: approximately $100 USD in API usage across both transcription and LLM passes.
+Total pipeline cost comes at ~$100 USD in API usage across both transcription and LLM passes.
 
 ---
 
@@ -110,7 +107,6 @@ Contributions are welcome and encouraged. The dataset is only as good as the com
 - **Summaries**: Help expand or refine sermon summaries and detailed descriptions
 - **Tags**: Suggest additional relevant tags or improve theme consistency
 - **Transcriptions**: Improve transcript accuracy, particularly Arabic passages
-- **Missing sermons**: Help identify and add the 196 PDF-only sermons not yet included
 
 ### Reporting Issues
 - Report broken links or missing files
@@ -138,7 +134,6 @@ The sermon content itself remains the intellectual and spiritual legacy of Hazra
 
 ## Acknowledgements
 
-- **Alislam.org** and the Ahmadiyya Muslim Community for preserving and making available the original sermon recordings and PDF transcriptions
 - The **Khutbaat-e-Tahir** playlist on Youtube, which served as the primary source of sermons collected in one place, made this process much easier
 - **OpenAI Whisper Large v3** for audio transcription
 - **Anthropic Claude Opus** for structured extraction and summarisation
